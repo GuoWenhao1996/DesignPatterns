@@ -10,11 +10,11 @@ public class Parrot implements Animal {
 
 	@Override
 	public void eat() {
-		System.out.println("ğĞğÄ-" + name + "-ÔÚ³Ô¶«Î÷£¡");
+		System.out.println("é¹¦é¹‰-" + name + "-åœ¨åƒä¸œè¥¿");
 	}
 
 	public void fly() {
-		System.out.println("ğĞğÄ-" + name + "-ÔÚ·É£¡");
+		System.out.println("é¹¦é¹‰-" + name + "-åœ¨é£");
 	}
 
 }

@@ -10,11 +10,11 @@ public class Tiger implements Animal {
 
 	@Override
 	public void eat() {
-		System.out.println("老虎-" + name + "-在吃东西！");
+		System.out.println("鑰佽檸-" + name + "-鍦ㄥ悆涓滆タ");
 	}
 
 	public void run() {
-		System.out.println("老虎-" + name + "-在跑！");
+		System.out.println("鑰佽檸-" + name + "-鍦ㄨ窇");
 	}
 
 }

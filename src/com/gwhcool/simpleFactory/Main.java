@@ -2,13 +2,13 @@ package com.gwhcool.simpleFactory;
 
 public class Main {
 	public static void main(String[] args) {
-		Animal animal = SimpleFactory.createAnimal("Tiger", "»¢xx");
+		Animal animal = SimpleFactory.createAnimal("Tiger", "è™Žxx");
 		animal.eat();
 		((Tiger) animal).run();
-		animal = SimpleFactory.createAnimal("Delphin", "ëà");
+		animal = SimpleFactory.createAnimal("Delphin", "è±šxx");
 		animal.eat();
 		((Delphin) animal).swim();
-		animal = SimpleFactory.createAnimal("Parrot", "ðÐ");
+		animal = SimpleFactory.createAnimal("Parrot", "é¹¦xx");
 		animal.eat();
 		((Parrot) animal).fly();
 

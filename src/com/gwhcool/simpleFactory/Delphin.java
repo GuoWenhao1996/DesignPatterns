@@ -10,11 +10,11 @@ public class Delphin implements Animal {
 
 	@Override
 	public void eat() {
-		System.out.println("海豚-" + name + "-在吃东西！");
+		System.out.println("娴疯睔-" + name + "-鍦ㄥ悆涓滆タ");
 	}
 
 	public void swim() {
-		System.out.println("海豚-" + name + "-在游泳！");
+		System.out.println("娴疯睔-" + name + "-鍦ㄦ父");
 	}
 
 }
